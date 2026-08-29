@@ -1,0 +1,15 @@
+UPTOWN KASSE – INSTALLATION AUF iPHONE / iPAD
+
+Diese Version ist eine Progressive Web App (PWA). Sie verhält sich nach der Installation fast wie eine normale App und kann auch offline weiterlaufen, nachdem sie einmal geladen wurde.
+
+1. Den Ordner auf einen HTTPS-Webspace hochladen (z. B. GitHub Pages, Netlify, Vercel oder eigener Webserver).
+2. Die veröffentlichte Adresse auf dem iPhone/iPad in SAFARI öffnen.
+3. Auf das Teilen-Symbol tippen.
+4. „Zum Home-Bildschirm“ wählen.
+5. „Hinzufügen“ tippen.
+6. Danach erscheint „Uptown Kasse“ wie eine normale App auf dem Home-Bildschirm.
+
+Wichtig: Direkt aus einer ZIP-Datei lässt sich eine PWA auf iOS nicht installieren; sie muss zuerst über HTTPS erreichbar sein.
+
+Alternative native App:
+Eine echte iOS-App (.ipa / TestFlight / App Store) benötigt Xcode und Apple-Code-Signing. Für TestFlight bzw. App Store ist ein Apple-Developer-Account notwendig.
